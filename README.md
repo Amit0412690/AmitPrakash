@@ -1,5 +1,5 @@
-# AmitPrakash
-👋 Hi there! I'm Amit,
+
+#👋 Hi there! I'm Amit,
 
 I'm woking on bulding web applications.
 
